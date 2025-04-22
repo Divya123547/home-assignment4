@@ -1,4 +1,4 @@
-# Umesh Chandra - NLP Processing and Analysis Pipeline
+# Sai Divya Katakamsetty - NLP Processing and Analysis Pipeline
 
 ## 1. NLP Preprocessing Pipeline Overview
 
